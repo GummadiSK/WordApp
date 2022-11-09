@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "182549938608",
+    "project_id": "wordapp-ccb24",
+    "storage_bucket": "wordapp-ccb24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182549938608:android:e6e0a6214efec939be5675",
+        "android_client_info": {
+          "package_name": "com.example.wordapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182549938608-m4m4rphh98bngm3d1t2hgrhklev5sedt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcPwg0bEL-xF0HWDvrd5LDCfk4CRmLkHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182549938608-m4m4rphh98bngm3d1t2hgrhklev5sedt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
